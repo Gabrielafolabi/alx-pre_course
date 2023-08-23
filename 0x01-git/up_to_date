@@ -1,0 +1,20 @@
+ 1  ls
+    2  cd alx-pre_course/
+    3  ls
+    4  cd 0x01-git/
+    5  ls
+    6  cd ..
+    7  git pull
+    8  ls
+    9  cat README.md 
+   10  history 
+   11  q
+   12  cd 0x01-git/
+   13  ls
+   14  history 
+  15 mkdir
+  16 touch
+  17 rm
+  18 git push
+  19 git commit
+  20 git branch
